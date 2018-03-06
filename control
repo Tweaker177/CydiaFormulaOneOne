@@ -1,0 +1,10 @@
+Package: com.i0stweak3r.cydiaformulaoneone
+Name: CydiaFormulaOneOne
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Makes Cydia go faster on Electra jailbreak by disabling attempts to load saurik's disabled repo packages. Also added colorful activity indicators and a firmware faker for fun screenshots of fake jailbreak versions. iOS 9-11.1.2
+Maintainer: i0stweak3r
+Author: i0stweak3r
+Section: Tweaks
+Homepage: http://i0s-tweak3r-betas.yourepo.com
