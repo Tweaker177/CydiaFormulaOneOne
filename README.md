@@ -5,3 +5,5 @@ later add color picker option for each style.
 The firmware faker and UI change to Cydia works on all devices iOS 9-11.1.2, tested on 9.3.3, 10.0.1 and 11.1.2
 Electra patch to get rid of errors from blocking saurik's repo amd some bad code signatures mainly targeted at iOS 11 but sho
 shouldnt hurt having it on lower firmwares.
+
+ADDING FILES NOW for current version in BigBoss with lots of UI color choices using segmented cells. Going to change to libColorpicker soon or collab on new project with EASY Z
