@@ -1,9 +1,10 @@
-# CydiaFormulaOneOne
-Recently submitted to BigBoss, makes Electra jailbreak run smoother in Cydia and has a neat UI customization and firmware faker. It picks random colors and adds them to all styles of activity indicators inside Cydia, includimg status bar.  May
-later add color picker option for each style.
+# FormulaOneOne
+Available in BigBoss, it was originally made to make Electra jailbreak run smoother in Cydia, add a simple but cool UI customization, and firmware faker. It picks random colors and adds them to all styles of activity indicators inside Cydia, including status bar. 
 
-The firmware faker and UI change to Cydia works on all devices iOS 9-11.1.2, tested on 9.3.3, 10.0.1 and 11.1.2
-Electra patch to get rid of errors from blocking saurik's repo amd some bad code signatures mainly targeted at iOS 11 but sho
-shouldnt hurt having it on lower firmwares.
+The current version also replaces the loading text with random quotes, jokes and oddities if desired.
+About to add backgrouding to further speed up loading sources, and optimize the way settings are handled.
 
-ADDING FILES NOW for current version in BigBoss with lots of UI color choices using segmented cells. Going to change to libColorpicker soon or collab on new project with EASY Z
+The tweak works on all devices from iOS 9-12.4. (Need to update makefiles for A12 tho)
+
+
+
